@@ -10,11 +10,12 @@ Credit to stuporglue and GitHub contributors for the original list and any updat
 
 ## Desktop GIS Software
 
- * ArcGIS
- * QGIS
+ * Avenza MapPublisher
+ * ESRI ArcGIS
  * MapInfo
  * MapBox Studio
  * TileMill
+ * QGIS
 
 ## Specific Toolsets within Desktop GIS Software
  
@@ -165,7 +166,6 @@ Credit to stuporglue and GitHub contributors for the original list and any updat
 ## Task Related Action Verbs
  * Add
  * Append
- * Change
  * Convert
  * Copy
  * Create
@@ -185,6 +185,7 @@ Credit to stuporglue and GitHub contributors for the original list and any updat
  * Move
  * Project
  * Select
+ * Symbolise
 
 ## Hardware
   
