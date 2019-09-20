@@ -1,11 +1,12 @@
 # GIS-Buzzwords
 
-In college (for IT) the career counselor gave us a sheet of then-current IT buzzwords to use when making a resume. This list is meant to be the GIS version of that list. 
+GIS buzzwords to use when making a resume.
 
-When making your resume you cross reference this list, the job description and your skill set to make sure you don't miss anything that would make you more attractive to the person hiring you. 
+When making your resume you can cross reference this list, the job description and your skill set to make sure you don't miss anything that would make you more attractive to the person hiring you. 
 
-Please fork and submit pull requests with your suggestions. Feel free to include any GIS-related technologies that are /currently being sought/ by employers. 
+Please fork and submit pull requests with your suggestions. Feel free to include any GIS-related technologies that are currently being sought by employers. 
 
+Credit to stuporglue and GitHub contributors for the original list and any updates here.
 
 ## Desktop GIS Software
 
@@ -131,7 +132,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
 ## File Formats and Standards
 
  * GeoJson
- * ShapeFiles
+ * ShapeFiles (SHP)
  * KML/KMZ
  * GeoTiff
  * GML/GPX/XML
@@ -161,11 +162,35 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Viewshed
  * Watershed
 
+## Task Related Action Verbs
+ * Add
+ * Append
+ * Change
+ * Convert
+ * Copy
+ * Create
+ * Clip
+ * Delete
+ * Digitise
+ * Edit
+ * Format
+ * Generalise
+ * Geocode
+ * Georeference
+ * Identify
+ * Insert
+ * Interpolate
+ * Join
+ * List
+ * Move
+ * Project
+ * Select
+
 ## Hardware
   
  * Trimble Geoexplorer (Model #)
  * Juniper - Archer Field PC (Model #)
- * Garmin etrex (GPX to SHP conversion)
+ * Garmin etrex (GPX collection)
  * Trimble - Juno Field PC
  
 ## Project Related Action Verbs
